@@ -1,6 +1,8 @@
 # eigensense
 Privacy preserving surveillance
 
+<img src="system1.jpg" />
+
 Eigensense is a privacy-preserving surveillance system. The camera uses AI to generate a text description of what it sees. This text is sent to an AI agent which evaluates the situation, and alerts humans if attention is needed. Video is processed completely on-device, not stored, not transmitted outside the camera.
 
 e.g. The camera monitors a patient’s room, periodically sending texts like “There is a person lying on a bed”, which are evaluated by the AI agent. If the camera sends a message like “There is a person lying on the floor”, the AI agent alerts hospital staff.
